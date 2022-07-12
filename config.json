@@ -1,0 +1,13 @@
+{
+    "multisig_address" : "KT1GnuqcaoMFPDE6g8mmbHAo7XfZVVArGA33",
+    "target_address" : "KT1Xa4kHUqNxk46S75KLZtL2NobbtiiWjVEP",
+    "source_address" : "tz1QRoH2rdD8HPvWXDhe9ZhToTHGUx6Mggph",
+    "endpoint" : "https://rpc.ithacanet.teztnets.xyz/",
+    "target_function" :
+    {
+        "admin_fill_allowlist" :
+        {
+            "michelson_type" : "(set address)"
+        }
+    }
+}
